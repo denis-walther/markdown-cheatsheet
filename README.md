@@ -136,10 +136,10 @@ Reference Images:
 [bla](path/to/picture or /link/to/picture/)
 ```
 
-![wwe_markdown](./wwe_markdown.png)
+![markdown_speak](./markdown_speak.jpg)
 
-![wwe_markdown][markdown]
-[markdown](./wwe_markdown.png)
+![markdown_speak][markdown]
+[markdown](./markdown_speak.jpg)
 
 ---
 
