@@ -5,21 +5,21 @@
 
 # Table of Contents
 
-* [Headers](#Headers)
-* [Bold, Italic and Strikethrough](#Bold,-Italic-and-Strikethrough)
-* [Lists](#Lists)
- * [Ordered Lists](#Ordered-Lists)
- * [Unordered Lists](#Unordered Lists)
-* [Links](#Links)
-* [Images](#Images)
-* [Image Size](#Image-Size)
-* [Codeblocks and Inline Code](#Codeblocks-and-Inline-Code)
-* [Tables](#Tables)
-* [Blockquotes](#lockquotes)
-* [Inline HTML](#Inline-HTML)
-* [Horizonatl Rule](#Horizonatl-Rule)
-* [Table of Contents](#Table-of-Contents)
-* [E-Mail Addresses](#E-Mail-Addresses)
+* [Headers](#headers)
+* [Bold, Italic and Strikethrough](#bold-italic-and-strikethrough)
+* [Lists](#lists)
+ * [Ordered Lists](#ordered-lists)
+ * [Unordered Lists](#unordered-lists)
+* [Links](#links)
+* [Images](#images)
+* [Image Size](#image-size)
+* [Codeblocks and Inline Code](#codeblocks-and-inline-code)
+* [Tables](#tables)
+* [Blockquotes](#blockquotes)
+* [Inline HTML](#inline-html)
+* [Horizonatl Rule](#horizontal-rule)
+* [Table of Contents](#table-of-contents)
+* [E-Mail Addresses](#e-mail-addresses)
 
 ---
 
