@@ -138,8 +138,8 @@ Reference Images:
 
 ![markdown_speak](./markdown_speak.jpg)
 
-![markdown_speak][markdown]
-[markdown](./markdown_speak.jpg)
+![markdown_speak][markdown_speak]
+[markdown_speak](./markdown_speak.jpg)
 
 ---
 
