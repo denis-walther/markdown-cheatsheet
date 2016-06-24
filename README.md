@@ -20,6 +20,8 @@
 * [Horizonatl Rule](#horizontal-rule)
 * [Table of Contents](#table-of-contents)
 * [E-Mail Addresses](#e-mail-addresses)
+* [Anchors](#anchors)
+
 
 ---
 
@@ -252,3 +254,16 @@ E-Mail addresses can be simply added:
 <mail@example.com>
 ```
 <mail@example.com>
+
+---
+
+## Anchors
+
+Anchors can be set like this:
+
+    * [foobar](?#id1)
+    
+    ###<a id="id1"></a>
+    ## FooBar Heading
+
+It works also for table of contents then or even for other pages depending on your used system.
